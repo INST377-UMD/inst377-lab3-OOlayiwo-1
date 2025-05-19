@@ -1,16 +1,16 @@
-/* styles.css */
+/* Ope*/
 body {
-    font-family: "Times New Roman", Times, serif; /* Changed font-family */
+    font-family: "Times New Roman", Times, serif; 
     display: flex;
     flex-direction: column;
     align-items: center;
     margin: 0;
     padding: 0;
-    background-color: #f0f8ff; /* Alice Blue */
+    background-color: #f0f8ff; 
 }
 
 .header-footer {
-    background-color: #dda0dd; /* Plum */
+    background-color: #dda0dd; 
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -99,11 +99,11 @@ nav ul li a:hover {
 }
 
 .main-content form button:hover {
-    background-color: #483d8b; /* Dark Slate Blue */
+    background-color: #483d8b; 
 }
 
 .sidebar {
-    background-color: rgba(173, 216, 230, 0.7); /* Light Blue with some transparency */
+    background-color: rgba(173, 216, 230, 0.7); 
     padding: 20px;
     width: 30%; /* Percentage width for sidebar */
     box-sizing: border-box;
